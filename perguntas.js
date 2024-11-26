@@ -1,45 +1,60 @@
 criaCartao(
-    'programaçao',
-    'O que é javascript?',
-    'o javascript é uma linguagem de programaçao'
+    'Matemática',
+    'Qual o valor de X? 2X + 60 = 3X . 5',
+    'X = 12'
 )
 criaCartao(
-    'matematica',
-    'O que é angulo?',
-    'Ângulo é a reunião de dois segmentos de reta orientados a partir de um ponto comum.'
+    'historia',
+    'Quem descobriu as américas e o Brasil respectivamente?',
+    'Cristóvão Colombo e Pedro Álvares Cabral'
 )
 criaCartao(
-    'Português',
-    'Qual o objetivo de um texto argumentativo?',
-    'Um texto argumentativo tem como objetivo convencer alguém das nossas ideias.'
+    'Geografia',
+    'Em que continente fica Coreia do sul, Espanha e Colômbia?',
+    'Ásia, europa e América do sul'
+)
+criaCartao(
+    'Fisica',
+    'Qual é a unidade de medida da força no Sistema Internacional?',
+    'Newton'
 )
 criaCartao(
     'Biologia',
-    'Quem propos a teoria da seleçao natural',
-    'Charles Darwin'
+    'Qual a cor predominante na clorofila?',
+    'verde'
+)
+criaCartao(
+    'Química',
+    'O que é PH?',
+    'Medida de acidez de uma solução.'
+)
+criaCartao(
+    'Inglês',
+    'Transforme a frase em uma pergunta: you know.',
+    'do you know?'
+)
+criaCartao(
+    'Sociologia',
+    'O que é estratificação social?',
+    'Divisão da sociedade em camadas.'
+)
+criaCartao(
+    'Educação financeira',
+    'Qual o preço do dólar em reais?',
+    'R$5,51.'
 )
 criaCartao(
     'Biotecnologia',
-    'O que sao celulas',
-    'A célula é a unidade estrutural e funcional dos seres vivos'
+    'O que é um organismo geneticamente modificado?',
+    'Um organismo com genes alterados.'
 )
 criaCartao(
-    'Robotica',
-    'O que é push botom',
-    'é um tipo de interruptor simples utilizado para acionar ou interromper um circuito elétrico.'
+    'Matemática li',
+    'O que é uma variável?',
+    'É um nome para guardar uma informação.',
 )
 criaCartao(
     'Projeto de vida',
-    'O que é Empatia',
-    'ce colocar no lugar do proximo'
-)
-criaCartao(
-    '',
-    '',
-    ''
-)
-criaCartao(
-    '',
-    '',
-    ''
+    'O que é projeto de vida?',
+    'É um plano para alcançar suas metas.'
 )
